@@ -44,8 +44,5 @@ def Pop():
 Pop()
 
 
-
-
-
 # time.sleep(3)
 # root.destroy()
